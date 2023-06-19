@@ -22,8 +22,15 @@ namespace MethodsExercise
         {
             int sum = num1 - num2;
             Console.WriteLine(sum);
+
         }
 
+        public static void Divide(int num1, int num2)
+        {
+
+            int sum = num1 / num2;
+            Console.WriteLine(sum);
+        }
 
 
 

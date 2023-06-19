@@ -7,6 +7,7 @@
             Methods.Add(7,14); //pass in arguments
             Methods.Multiply(5, 12); //pass in arguments
             Methods.Subtract(10, 20);// pass in arguments
+            Methods.Divide(20, 5);// pass in arguments
             Console.WriteLine("What is your name");
             string name = Console.ReadLine();
 
